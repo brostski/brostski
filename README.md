@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aiden! <br/><a href="https://github.com/brostski">Programmer</a>, <a href="https://www.linkedin.com/in/aiden-brost-35040b63//">Cybersecurity Professional</a>,
+<h1>Hi, I'm Aiden! <br/><a href="https://github.com/brostski">Programmer</a>, and <a href="https://www.linkedin.com/in/aiden-brost-35040b63//">Cybersecurity Professional.</a>
 
 <h2>Cyber Security Projects:</h2>
 
@@ -13,14 +13,12 @@
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Aiden Brost | X" width="22px" src="https://banner2.cleanpng.com/20240119/bkq/transparent-x-icon-black-and-white-x-in-the-1710889063979.webp" />]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Aiden Brost | X" width="22px" src="https://banner2.cleanpng.com/20240119/bkq/transparent-x-icon-black-and-white-x-in-the-1710889063979.webp" />][X]
+[<img align="left" alt="Aiden Brost | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[X]: https://x.com/Brostski
+[linkedin]: https://www.linkedin.com/in/aiden-brost-35040b63/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
