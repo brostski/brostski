@@ -8,7 +8,7 @@
 
 <h2>Certifications</h2>
 
-- [Google Cyber Security Professional Certificate]([(https://www.credly.com/badges/a31f449c-7eaa-4bc2-9ddc-ca74f67c36b2/public_url)])
+- [Google Cyber Security Professional Certificate](https://www.credly.com/badges/a31f449c-7eaa-4bc2-9ddc-ca74f67c36b2/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
