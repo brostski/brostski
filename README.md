@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aiden! <br/><a href="https://github.com/brostski">Programmer</a>, <a href="https://www.linkedin.com/in/aiden-brost-35040b63//">Cybersecurity Professional</a>,
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>Cyber Security Projects:</h2>
 
 
   - [Active Directory Home Lab](https://github.com/brostski/ActiveDirectoryLab/tree/main)
@@ -11,10 +11,9 @@
 - [Google Cyber Security Professional Certificate](https://www.credly.com/badges/a31f449c-7eaa-4bc2-9ddc-ca74f67c36b2/public_url)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Aiden Brost | X" width="22px" src="https://banner2.cleanpng.com/20240119/bkq/transparent-x-icon-black-and-white-x-in-the-1710889063979.webp" />]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
