@@ -9,6 +9,7 @@
 <h2>Certifications</h2>
 
 - [Google Cyber Security Professional Certificate](https://www.credly.com/badges/a31f449c-7eaa-4bc2-9ddc-ca74f67c36b2/public_url)
+- [CompTIA A+ Certificate](https://www.credly.com/badges/adb8e2ad-aee8-40e3-ab11-816f728b93b1/public_url)
 
 
 <h2>Connect with me:</h2>
