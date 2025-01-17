@@ -4,6 +4,7 @@
 
 
   - [Active Directory Home Lab](https://github.com/brostski/ActiveDirectoryLab/tree/main)
+  - [File Integrity Montitor Home Lab](https://github.com/brostski/FileIntegrityMonitorLab)
 
 
 <h2>Certifications</h2>
