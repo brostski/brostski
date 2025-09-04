@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aiden! <br/><a href="https://github.com/brostski">Data Analyst</a>, and <a href="https://www.linkedin.com/in/aiden-brost-35040b63//">Cybersecurity Professional.</a>
+<h1>Hi, I'm Aiden! <br/><a href="https://github.com/brostski">Motivated Professional</a>, with <a href="https://www.linkedin.com/in/aiden-brost-35040b63//">Technical Experience.</a>
 
 <h2>Cyber Security Projects:</h2>
 
